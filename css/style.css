@@ -1,0 +1,67 @@
+@charset "UTF-8";
+.love{
+  height: 680px;
+}
+.love dd{
+position: relative;    margin: 0 auto;
+margin-top: 20px;
+}
+.a_1 img{ width: 80px;height: 80px;}
+.a_2 img{ width: 80px;height: 80px;}
+.a_3 img{ width: 80px;height: 80px;}
+.a_4 img{ width: 80px;height: 80px;}
+.a_5 img{ width: 80px;height: 80px;}
+.a_6 img{ width: 80px;height: 80px;}
+.a_7 img{ width: 80px;height: 80px;}
+.a_8 img{ width: 80px;height: 80px;}
+.a_9 img{ width: 80px;height: 80px;}
+.a_10 img{ width: 80px;height: 80px;}
+.a_11 img{ width: 80px;height: 80px;}
+.a_12 img{ width: 80px;height: 80px;}
+.a_5{top:85px;left:240px;position: absolute;}
+.a_1{top:0px;left:410px;position: absolute;}
+.a_2{top:0px;left:495px;position: absolute;}
+.a_3{top:0px;left:725px;position: absolute;}
+.a_4{top:0px;left:810px;position: absolute;}
+.a_6{top:85px;left:325px;position: absolute;}
+.a_7{top:85px;left:410px;position: absolute;}
+.a_8{top:85px;left:495px;position: absolute;}
+.a_9{top:85px;left:639px;position: absolute;}
+.a_10{top:85px;left:725px;position: absolute;}
+.a_11{top:85px;left:810px;position: absolute;}
+.a_12{top:85px;left:895px;position: absolute;}
+.a_13{top:170px;left:240px;position: absolute;}
+.a_14{top:170px;left:325px;position: absolute;}
+.a_13 img{width: 80px;height: 80px;}
+.a_14 img{width: 186px;height: 186px;}
+.a_15 img{width: 186px;height: 186px;}
+.a_16 img{width: 186px;height: 186px;}
+
+
+.a_15{top:170px;left:515px;position: absolute;}
+.a_16{top:170px;left:705px;position: absolute;}
+.a_17{top:170px;left:895px;position: absolute;}
+.a_19{top:260px;left:895px;position: absolute;}
+.a_18{top:260px;left:240px;position: absolute;}
+.a_20{top:358px;left:355px;position: absolute;}
+.a_21{top:358px;left:440px;position: absolute;}
+.a_22{top:358px;left:525px;position: absolute;}
+.a_23{top:358px;left:715px;position: absolute;}
+.a_24{top:358px;left:800px;position: absolute;}
+.a_25{top:445px;left:440px;position: absolute;}
+.a_26{top:445px;left:715px;position: absolute;}
+.a_27{top:548px;left:578px;position: absolute;}
+.a_17 img{width: 80px;height: 80px;}
+.a_18 img{width: 80px;height: 80px;}
+.a_19 img{width: 80px;height: 80px;}
+.a_20 img{width: 80px;height: 80px;}
+.a_21 img{width: 80px;height: 80px;}
+.a_23 img{width: 80px;height: 80px;}
+.a_24 img{width: 80px;height: 80px;}
+.a_25 img{width: 80px;height: 80px;}
+.a_26 img{width: 80px;height: 80px;}
+.a_27 img{width: 80px;height: 80px;}
+.a_22 img{width: 186px;height: 186px;}
+.header{height: 60px;background: rgba(104,104,106,.8);z-index:9999; }
+.init-header{background: none;height: 0;}
+.fk-text{font-size: 1.2rem;font-weight: bold;}
